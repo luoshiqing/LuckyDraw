@@ -12,6 +12,7 @@
 		D6D9E4661DE2DF590049751E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6D9E4641DE2DF590049751E /* Main.storyboard */; };
 		D6D9E4681DE2DF590049751E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6D9E4671DE2DF590049751E /* Assets.xcassets */; };
 		D6D9E46B1DE2DF590049751E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6D9E4691DE2DF590049751E /* LaunchScreen.storyboard */; };
+		D6D9E4731DE2E01D0049751E /* LuckyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D9E4721DE2E01D0049751E /* LuckyView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D6D9E4671DE2DF590049751E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D6D9E46A1DE2DF590049751E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D6D9E46C1DE2DF590049751E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D6D9E4721DE2E01D0049751E /* LuckyView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LuckyView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				D6D9E4601DE2DF590049751E /* AppDelegate.swift */,
 				D6D9E4621DE2DF590049751E /* ViewController.swift */,
+				D6D9E4721DE2E01D0049751E /* LuckyView.swift */,
 				D6D9E4641DE2DF590049751E /* Main.storyboard */,
 				D6D9E4671DE2DF590049751E /* Assets.xcassets */,
 				D6D9E4691DE2DF590049751E /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				D6D9E4631DE2DF590049751E /* ViewController.swift in Sources */,
 				D6D9E4611DE2DF590049751E /* AppDelegate.swift in Sources */,
+				D6D9E4731DE2E01D0049751E /* LuckyView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
